@@ -41,3 +41,15 @@ department.
 
 during which tenure and salary range are employess leaving the most.
 
+## Repository Contents
+
+hr.pbix:The Final Dashboard.
+
+'README.md':Project documentation.
+
+## Dataset Information
+
+The Dataset was provided by the internship instructors and is a variation of the **Hr_Analytics_Dashboard**, found on [kaggle](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
+
+
+
