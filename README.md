@@ -3,10 +3,7 @@
 ## Project Overview
 
 This is an end-to-end Dashboard designed to discover why employee  are leaving the organization and deliver data-backed 
-
-retention strategies. By analyzing key workforce demographics,satisfaction levels and historical tenure data, this dashboard
-
-transforms raw employee records into actionable insights.
+retention strategies. By analyzing key workforce demographics,satisfaction levels and historical tenure data, this dashboard transforms raw employee records into actionable insights.
 
 ## Dataset Specifications
 
