@@ -18,7 +18,7 @@ retention strategies. By analyzing key workforce demographics,satisfaction level
 **The Attrition Rate Paradox** While larger Departments have a higher number of attrition count i.e R&D yet we look at the Atrrition Rate it shows us that smaller departments like Hr and Sales are at a higher operational Risk because even if a few employees leave it will affect the Operation of the department vastely .
 
 **The Overtime and burnout Connection:** A Deep cross-tabulation of roles against work-life Balance metrics revealed that 
-**Over 88% of all company attrition** occurs among Employees rating their work-life Balance ata 3 or lower. 
+**Over 88% of all company attrition** occurs among Employees rating their work-life Balance ata 3 or lower. The Attrition rate of people who do a overtime is really high compared to the ones  who dont do a overtime.
 
 **High-Risk Roles:** Attrition is heavily concentrated in core operatinal positions. **Laboratory Techniciann (62 Exits)** and **Sales Executive (57 exits)** represent ove half of the Company's total attrition, with a shocking number of departures coming from employees who represented a high job satisfaction but a lower work-life balance .
 
@@ -36,6 +36,16 @@ department.
 **Scatter Plot:** Scatter plot of Monthly income vs Years at the Company based on Attriton Count helps us to understand 
 
 during which tenure and salary range are employess leaving the most.
+
+## Strategic Recommendations ##
+
+**Manage Overtime Hours**
+
+We should actively track employee work hourse and reduce unnecessary overtime. By managing their workload better,employees will feel less stresses and will stay with the company longer.
+
+**Review Work-Life Balance**
+
+We must regularly review the work-life Balance scores of our teams. For departments with low scores,managers should step in to adjust deadlines,distribute work evenly and prevent employee burnout.
 
 ## Repository Contents
 
